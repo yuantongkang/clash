@@ -16,7 +16,6 @@ import (
 	"github.com/Dreamacro/clash/log"
 
 	"go.uber.org/automaxprocs/maxprocs"
-	 _ "expvar"
 )
 
 var (
